@@ -1,0 +1,13 @@
+	One major difference between my code and the Umple code is that my code has my methods,
+while my Umple does not because it kept crashing everytime I would add a method, however correct 
+it was. Another major difference that took some getting used to was that Umple defaulted the primitive
+type to String and therefore did not list the word "String" for an object of that type. The only other
+major difference is the grouping of the classes; I put my classes in seperate places in eclipse, while
+Umple groups them all in the same place. The other thing about classes is that Umple does not explictly
+state if it is a private or public class, while I did in my code. Overall, the code still does the same
+thing, however.
+	I think Umple is most useful for helping me visualize my class relations. It occasionally confuses
+me if one thing is the parent or the child class, and physically drawing it out helps me distinguish the
+two. It is also good for me to see the pluses or minuses to simply remember what is public or private.
+Overall, I would not use it to generate code, but as a visual tool to get the concept of inheritance in
+relation to individual projects. 

@@ -1,0 +1,26 @@
+class Account
+{
+    isA Customer;
+dateCreated;
+  int accountNum;
+  password;
+  state;
+  }
+
+class Customer
+{
+  name;
+  int age;
+  address;
+  int phoneNum;
+}
+
+class Order
+{
+    isA Account;
+int price;
+  productName;
+  dateOrdered;
+  int orderNum;
+}
+
